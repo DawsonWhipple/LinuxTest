@@ -1,7 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    std::cout << "This is my first test of clion in ubuntu linux" << std::endl;
+    printf("Hello World!/n");
     return 0;
 }
